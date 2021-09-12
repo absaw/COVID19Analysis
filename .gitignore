@@ -1,5 +1,7 @@
 # Git Ignore File 1 June 21
 Papers
-abstract.txt
+Aim.txt
+Procedure for data.txt
+Notes.docx
 .ipynb_checkpoints
 Screenshots
